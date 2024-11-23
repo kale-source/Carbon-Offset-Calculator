@@ -49,7 +49,7 @@ Com as duas bibliotecas instaladas, a calculadora irá funcionar sem erros.
 ## Como Utilizar 🚀
 
 1. Certifique-se de ter o **Python** e **Streamlit** instalado em sua máquina.  
-2. Na pasta principal execute o comando `streamlit run 1_🏠_Início.py.py` para iniciar a aplicação.  
+2. Na pasta principal execute o comando `streamlit run 1_🏠_Início.py` para iniciar a aplicação.  
 
 ---
 
